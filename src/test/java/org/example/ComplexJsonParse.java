@@ -48,8 +48,6 @@ public class ComplexJsonParse {
                 .sum();
 
         Assert.assertEquals(total, purcahaseAmt);
-
-
     }
 
 }
